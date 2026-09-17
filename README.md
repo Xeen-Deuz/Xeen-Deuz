@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Yusuf Marwan! 👋
 
-<!--
-**Xeen-Deuz/Xeen-Deuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Stay curious, keep exploring, and never stop learning."*
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I’m an enthusiast who loves diving into new concepts, experimenting with tools, and figuring out how things work under the hood. For me, tech is an endless playground where there’s always something fresh to learn tomorrow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Cyber Secuity and Robotic
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Up To
+- 🔍 **Exploring New Tech:** Constantly testing out new tools, frameworks, and workflows just to see what they can do.
+- 💡 **Hands-on Experimentation:** Building side projects, tinkering with game modding, and learning through trial and error.
+- 📖 **Continuous Learning:** Delving into core fundamentals, system concepts, and problem-solving strategies.
+
+---
+
+### 🎯 My Philosophy
+- **Curiosity First:** The best way to learn is to build, break, and fix things.
+- **Process over Perfection:** Enjoying the journey of acquiring knowledge rather than just focusing on the end product.
+- **Always a Student:** Technology evolves fast, and staying adaptable is the ultimate skill.
+
+---
+
+### 📬 Let's Connect!
+- **Email:** yusufmarwanaj@gmail.com
+- **Discord / Content:** Xeen
+
+---
+
+<p align="center">
+  <i>"The more you learn, the more you realize how much there is to discover."</i>
+</p>
